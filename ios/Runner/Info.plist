@@ -47,5 +47,23 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>tiktokopensdk</string>
+        <string>tiktoksharesdk</string>
+        <string>snssdk1180</string>
+        <string>snssdk1233</string>
+    </array>
+    <key>TikTokAppID</key>
+    <string>7176083533567477766</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>7176083533567477766</string>
+        </array>
+      </dict>
+    </array>
 </dict>
 </plist>
